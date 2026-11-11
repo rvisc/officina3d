@@ -1,0 +1,2 @@
+'use strict';
+function showLanguage(){const code=location.hash.slice(1);const supported=['it','en','es','fr','de','zh-CN'];const language=supported.includes(code)?code:'it';document.documentElement.lang=language;document.querySelectorAll('.localized').forEach(section=>section.hidden=section.id!==language);document.querySelectorAll('.languages a').forEach(link=>{if(link.hash==='#'+language)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});}window.addEventListener('hashchange',showLanguage);showLanguage();
