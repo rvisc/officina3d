@@ -1,0 +1,19 @@
+﻿PRODUKTBESCHREIBUNG — Officina 3D
+
+Vom Zeichen zur Form: Organisieren, generieren und bearbeiten Sie Ihre 3D-Assets auf dem PC.
+
+Officina 3D sammelt Zeichnungen und 3D-Modelle in einem Katalog mit Projekten, Beschreibungen und Versionen. Importieren Sie Bilder und GLB, verbinden Sie ComfyUI oder Modly und verwalten Sie die Generierungen über eine Arbeitswarteschlange. Wählen Sie kompatible Workflows und bewahren Sie die Herkunft der Versionen.
+
+Korrigieren Sie die Farben, indem Sie direkt einen Bereich des Modells mit dem Pipettenwerkzeug auswählen und die Ähnlichkeit anpassen. Wählen Sie mehrere Bereiche aus, fügen oder subtrahieren Sie Teile und überprüfen Sie die Vorschau, bevor Sie eine neue Version speichern. Die geometrischen Werkzeuge helfen bei der Bearbeitung von Löchern, Fragmenten und unerwünschten Teilen.
+
+Wählen Sie mehrere Assets aus und fügen Sie sie mit gemeinsamen Parametern zur Warteschlange hinzu. Exportieren Sie alle Zeichnungen und Modelle des Projekts in einem einzigen ZIP-Archiv mit erkennbaren Namen. Die Benutzeroberfläche, Anleitung und Dokumentation sind auf Italienisch, Englisch, Spanisch, Französisch, Deutsch und vereinfachtes Chinesisch verfügbar.
+
+Die App erfordert kein eigenes Konto, enthält keine Werbung und sendet den Katalog nicht an den Hersteller. Die Inhalte werden lokal von der App und von den von Ihnen konfigurierten Engines verarbeitet. Eventuelle Erweiterungen der Engines unterliegen eigenen Bedingungen.
+
+WICHTIGE ANFORDERUNGEN: Windows 11 x64. Der Katalog, das lokale Importieren und die lokalen Korrekturen erfordern keinen KI-Engine. Für die Generierung müssen Sie ComfyUI oder Modly separat installieren und konfigurieren, zusammen mit kompatiblen Knoten, Workflows und Modellen; diese sind nicht enthalten. Überprüfen Sie die Anforderungen an GPU, Speicher und die Lizenzen der Modelle, bevor Sie herunterladen. Die anspruchsvollsten Modelle können etwa 32 GB RAM und 16 GB VRAM erfordern. Python, Visual C++ und WebView2 sind enthalten.
+
+Funktionen: Katalog und Versionen; Import von PNG/JPEG/GLB; Generierung über lokale Engines; Warteschlange mit Abbruch; Mehrfachgenerierung; Farb- und Geometriekorrektur mit Vorschau; Vollständiger ZIP-Export; Sechs Sprachen; Geführte Überprüfung der Voraussetzungen.
+
+Schlüsselwörter: 3D, Katalog, Modelle, Texturen, ComfyUI, Modly, lokale KI
+
+Support: vis-k@outlook.it — Website: https://rvisc.github.io/officina3d/ — Privacy: https://rvisc.github.io/officina3d/privacy.html — EULA: https://rvisc.github.io/officina3d/eula.html

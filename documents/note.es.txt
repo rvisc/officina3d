@@ -1,0 +1,13 @@
+﻿NOTAS DE LA VERSIÓN — Officina 3D 0.1.36
+
+La interfaz, guía, mensajes, documentación y licencia están disponibles en seis idiomas.
+
+Instalador: licencia legible con párrafos continuos y títulos; comprobación preliminar con resultados claros de los componentes esenciales, los entornos incluidos y los motores accesibles, y un botón para repetirla.
+
+Catálogo con proyectos y versiones; exportación completa en ZIP con los nombres de los *assets*; generación múltiple y resumen de la cola.
+
+Corrección de colores con goteros, tolerancia, selección extendible y deselección; herramientas para geometría, agujeros y partes indeseadas con previsualización y nueva versión.
+
+Procedimiento guiado para verificar el ordenador y configurar los motores. Paquetes de Windows con Python, librerías Visual C++ y runtime WebView2 incluidos.
+
+Limitaciones: la generación requiere motores, flujos de trabajo y modelos externos compatibles. Las selecciones geométricas no incluyen el significado del objeto. El rendimiento depende del hardware. Compruebe la previsualización y conserve copias de los archivos.

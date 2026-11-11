@@ -1,0 +1,19 @@
+﻿PRODUCT LISTING — Officina 3D
+
+From sketch to form: organize, generate, and retouch your 3D assets on the PC.
+
+Officina 3D collects 3D drawings and models in a catalog with projects, descriptions, and versions. Import images and GLB, connect ComfyUI or Modly, and manage generations from a job queue. Choose compatible workflows and preserve the provenance of versions.
+
+Correct colors by directly selecting an area of the model with the eyedropper and adjusting the similarity. Select multiple areas, add or subtract parts, and check the preview before saving a new version. The geometric tools help to intervene on holes, fragments, and unwanted parts.
+
+Select multiple assets and add them to the queue with common parameters. Export all the drawings and models of the project in a single ZIP, with recognizable names. The interface, guide, and documents are available in Italian, English, Spanish, French, German, and Simplified Chinese.
+
+The app does not require a proprietary account, does not contain advertisements, and does not send the catalog to the manufacturer. The contents are processed locally by the app and the engines you configure. Any engine extensions have their own terms.
+
+IMPORTANT REQUIREMENTS: Windows 11 x64. The catalog, local import, and corrections do not require an AI engine. To generate, you must separately install and configure ComfyUI or Modly, nodes, workflows, and compatible models; these are not included. Verify GPU, memory, and model licenses before downloading. The most demanding models may require approximately 32 GB of RAM and 16 GB of VRAM. Python, Visual C++, and WebView2 are included.
+
+Features: catalog and versions; PNG/JPEG/GLB import; generation via local engines; queue with cancellation; multiple generation; color and geometry correction with preview; full ZIP export; six languages; guided prerequisite check.
+
+Keywords: 3D, catalog, models, textures, ComfyUI, Modly, local AI
+
+Support: vis-k@outlook.it — Website: https://rvisc.github.io/officina3d/ — Privacy: https://rvisc.github.io/officina3d/privacy.html — EULA: https://rvisc.github.io/officina3d/eula.html

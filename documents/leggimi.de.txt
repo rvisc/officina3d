@@ -1,0 +1,25 @@
+﻿LIESMICH — Officina 3D
+
+Ihr 3D-Studio auf Ihrem PC. Officina 3D organisiert 3D-Zeichnungen und -Modelle in Projekte, Assets und Versionen, verbindet die lokalen Engines ComfyUI und Modly und bietet Werkzeuge zur Farb- und Geometriekorrektur.
+
+Anforderungen: Windows 11 x64. Python, die Bibliotheken Visual C++ und Microsoft WebView2 sind enthalten. .NET Framework 4.8 ist eine Komponente von Windows 11. Es ist keine separate Installation von Python auf dem Benutzercomputer erforderlich.
+
+Installation via Microsoft Store: Use the 'Install' button in the Store. The provided MSIX file for submission is unsigned: it will be signed by Microsoft during publication. It is not intended for direct installation via double-click.
+
+Testing outside the Store: Run Officina3D-0.1.39-Setup.exe or fully extract the portable archive and run Officina3D.exe. Keep the _internal folder next to the EXE. The trial packages are unsigned.
+
+On the first launch, the wizard allows checking the system, memory, disk, GPU, drivers, and engine availability. You can reopen it with 'Verify installation'. It does not automatically download or install components.
+
+Zur Generierung ist es erforderlich, ComfyUI oder Modly separat mit den kompatiblen Knoten, Modellen und Workflows vorzubereiten. Die Modellgewichte sind nicht enthalten. Öffnen Sie Motoren und Verbindungen, stellen Sie die lokalen Adressen ein und überprüfen Sie die Verbindung. ComfyUI: https://www.comfy.org/download — Modly: https://github.com/lightningpixel/modly
+
+Katalog, lokale Importe und Korrekturen funktionieren ohne einen Generierungs-Engine. Die erforderliche GPU-Kompatibilität und der Speicher hängen von den Modellen ab: Für die anspruchsvolleren sind circa 32 GB RAM und 16 GB VRAM angegeben. Überprüfen Sie die Anforderungen des Engines und die Lizenzen, einschließlich etwaiger territorialer Einschränkungen.
+
+Erstellen Sie ein Projekt und ein Asset, beschreiben Sie es oder importieren Sie ein PNG, JPEG oder GLB. Um mehrere Assets zu generieren, wählen Sie sie im Katalog aus und klicken Sie auf Generieren. Die Warteschlange zeigt Status und Fortschritt an; Sie können Jobs abbrechen. Korrekturen werden nach der Vorschau als neue Versionen gespeichert.
+
+Standardinstallationsdaten: %LOCALAPPDATA%\Vis-K\Officina3D. Zeichnungen und Modelle werden in den Unterordnern der Projekte gespeichert; der Katalog behält die Verweise und die Herkunft bei. Der tatsächliche Pfad wird in der Anwendung angezeigt. Entwicklungsstarts können einen anderen Ordner verwenden.
+
+Exportieren Sie Zeichnungen und Modelle aus dem Katalog, bevor Sie die Anwendung übertragen oder deinstallieren. Der vollständige Export erzeugt ein ZIP mit den Namen der Assets. Bewahren Sie auch eine Kopie des Datenordners auf: Es gibt keinen automatischen Remote-Backup-Dienst.
+
+Die Löschung aus dem Katalog ist endgültig und verwendet nicht den Papierkorb. Überprüfen Sie immer die Vorschau und die Auswahl, bevor Sie einen Schnitt anwenden. Generierungsoperationen können sehr lange dauern; die Prozentsätze hängen von den vom Motor bereitgestellten Maßen ab.
+
+Schnittstelle und Anleitung: Italienisch, Englisch, Spanisch, Französisch, Deutsch und vereinfachtes Chinesisch. Die Sprache kann über den Auswähler in der App geändert werden. Support und Sicherheitsmeldungen: vis-k@outlook.it. © 2026 Vis-K. Rosario Viscardi, Italien.

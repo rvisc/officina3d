@@ -1,0 +1,19 @@
+﻿SCHEDA DEL PRODOTTO — Officina 3D
+
+Dal segno alla forma: organizza, genera e ritocca i tuoi asset 3D sul PC.
+
+Officina 3D raccoglie disegni e modelli 3D in un catalogo con progetti, descrizioni e versioni. Importa immagini e GLB, collega ComfyUI o Modly e gestisci le generazioni da una coda di lavoro. Scegli i workflow compatibili e conserva la provenienza delle versioni.
+
+Correggi i colori selezionando direttamente una zona del modello con il contagocce e regolando la somiglianza. Seleziona più aree, aggiungi o sottrai parti e controlla l’anteprima prima di salvare una nuova versione. Gli strumenti geometrici aiutano a intervenire su buchi, frammenti e parti indesiderate.
+
+Seleziona più asset e aggiungili alla coda con parametri comuni. Esporta in un solo ZIP tutti i disegni e i modelli del progetto, con nomi riconoscibili. Interfaccia, guida e documenti sono disponibili in italiano, inglese, spagnolo, francese, tedesco e cinese semplificato.
+
+L’app non richiede un account proprio, non contiene pubblicità e non invia il catalogo al produttore. I contenuti vengono elaborati localmente dall’app e dai motori che configuri. Le eventuali estensioni dei motori hanno condizioni proprie.
+
+REQUISITI IMPORTANTI: Windows 11 x64. Catalogo, importazione e correzioni locali non richiedono un motore IA. Per generare devi installare e configurare separatamente ComfyUI o Modly, nodi, workflow e modelli compatibili; non sono inclusi. Verifica requisiti GPU, memoria e licenze dei modelli prima del download. I modelli più impegnativi possono richiedere circa 32 GB di RAM e 16 GB di VRAM. Python, Visual C++ e WebView2 sono inclusi.
+
+Caratteristiche: catalogo e versioni; importazione PNG/JPEG/GLB; generazione tramite motori locali; coda con annullamento; generazione multipla; correzione colori e geometria con anteprima; esportazione completa ZIP; sei lingue; verifica guidata dei prerequisiti.
+
+Parole chiave: 3D, catalogo, modelli, texture, ComfyUI, Modly, IA locale
+
+Assistenza: vis-k@outlook.it — Sito: https://rvisc.github.io/officina3d/ — Privacy: https://rvisc.github.io/officina3d/privacy.html — EULA: https://rvisc.github.io/officina3d/eula.html

@@ -1,0 +1,23 @@
+﻿AVISO DE PRIVACIDAD — Officina 3D
+
+Responsable del tratamiento para comunicaciones de asistencia: Rosario Viscardi (Vis-K), Italia. Contacto: vis-k@outlook.it. Información actualizada al 10 de noviembre de 2026.
+
+Officina 3D no requiere una cuenta propia ni integra publicidad, análisis de uso o telemetría del fabricante. El contenido del catálogo no se envía a Rosario Viscardi desde la aplicación.
+
+La aplicación conserva en el ordenador proyectos, nombres, *prompts*, dibujos, modelos, texturas, flujos de trabajo (*workflows*), historial de trabajos, configuraciones e idioma. Los registros de diagnóstico locales pueden contener rutas y detalles técnicos de errores. La verificación del ordenador lee el sistema operativo, la memoria, el espacio, la GPU y los controladores, y muestra el resultado localmente.
+
+Al iniciar una generación, los *prompts*, imágenes, modelos y parámetros necesarios se envían al motor local configurado. El servidor de la interfaz solo escucha en 127.0.0.1 y utiliza una sesión local. ComfyUI, Modly, extensiones y modelos son productos distintos: cualquier conexión, servicio remoto y recopilación de datos depende de su configuración y de sus respectivas políticas de privacidad.
+
+Los datos locales permanecen hasta que el usuario los elimina. Eliminar una versión o un *asset* elimina los archivos relacionados gestionados por la aplicación; las copias exportadas, las copias de seguridad y los archivos conservados por los motores siguen bajo el control del usuario. La desinstalación no sustituye la verificación y eliminación de la carpeta de datos ni de posibles copias de seguridad.
+
+Microsoft Store gestiona acquisti, download, aggiornamenti e relativi dati secondo l'informativa Microsoft. Il runtime Microsoft WebView2 è un componente di terze parti soggetto alle condizioni e all'informativa Microsoft. L'app non usa un servizio di analisi del produttore per osservare i contenuti visualizzati.
+
+El entorno de ejecución WebView2 incluye Microsoft Defender SmartScreen. Esta función recopila y envía información a Microsoft según la Declaración de privacidad de Microsoft (https://aka.ms/privacy) y el documento de privacidad de Edge (https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen). Se aplican los términos originales de Microsoft WebView2 Fixed Version incluidos con la aplicación.
+
+Si escribe al soporte, se tratarán la dirección de correo electrónico, el contenido de la solicitud y los archivos adjuntos que decidas enviar, para responder y gestionar el problema. Evita datos sensibles y elimina de los registros contenidos innecesarios. La base jurídica es la ejecución de la solicitud de asistencia o del contrato; para obligaciones aplicables, el cumplimiento de la ley; para la defensa ante reclamaciones, el interés legítimo del titular.
+
+Las comunicaciones se conservan durante el tiempo necesario para la gestión de la solicitud y, si es necesario, por obligaciones legales y protección de derechos. Los proveedores de servicios postales pueden tratarlas de acuerdo con sus respectivas condiciones, incluso fuera del Espacio Económico Europeo con las garantías previstas por la ley. No vendemos los datos recibidos para asistencia y no los utilizamos para marketing.
+
+En los casos previstos por el RGPD, puede solicitar acceso, rectificación, supresión, limitación, portabilidad y oposición escribiendo al contacto indicado. Puede presentar una reclamación ante la Autoridad de Protección de Datos Personales (https://www.garanteprivacy.it) o ante la autoridad competente. No tomamos decisiones automatizadas con efectos jurídicos o efectos significativos análogos sobre los datos recibidos para la asistencia.
+
+La página pública de documentación está alojada en GitHub Pages. Al visitarla, también se aplican la información y los tratamientos técnicos del proveedor de alojamiento GitHub. Los enlaces externos abren sitios de terceros; consulte sus políticas. Ningún cookie de perfilado ni herramienta de análisis es añadido por el código de la página.

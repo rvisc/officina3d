@@ -1,0 +1,25 @@
+﻿README — Officina 3D
+
+Your 3D studio, on your PC. Officina 3D organizes 3D drawings and models into projects, assets, and versions, connects the local engines ComfyUI and Modly, and offers color and geometry correction tools.
+
+Requirements: Windows 11 x64. Python, the Visual C++ libraries, and Microsoft WebView2 are included. .NET Framework 4.8 is a component of Windows 11. It is not necessary to install Python on the user's computer.
+
+Microsoft Store Installation: use the Install button in the Store. The provided MSIX file for submission is unsigned: it will be signed by Microsoft during publication. It is not intended for direct installation via double-click.
+
+Out-of-Store Trials: run Officina3D-0.1.39-Setup.exe or fully extract the portable archive and run Officina3D.exe. Keep the _internal folder next to the EXE. The trial packages are unsigned.
+
+On the first launch, the wizard allows you to check the system, memory, disk, GPU, drivers, and engine availability. You can reopen it with Installation Check. It does not automatically download or install components.
+
+To generate, you must separately prepare ComfyUI or Modly, including compatible nodes, models, and workflows. Model weights are not included. Open Engines and Connections, set the local addresses, and verify the connection. ComfyUI: https://www.comfy.org/download — Modly: https://github.com/lightningpixel/modly
+
+The catalog, local import, and corrections function without a generation engine. GPU compatibility and required memory depend on the models: for the most demanding ones, approximately 32 GB of RAM and 16 GB of VRAM are indicated. Verify the engine requirements and licenses, including any territorial limitations.
+
+Create a project and an asset, describe it or import a PNG, JPEG, or GLB. To generate multiple assets, select them in the catalog and press Generate. The queue shows the status and progress; you can cancel jobs. Corrections are saved as new versions after the preview.
+
+Standard installation data: %LOCALAPPDATA%\Vis-K\Officina3D. Drawings and models are kept in the project subfolders; the catalog maintains references and provenance. The actual path is shown in the app. Development builds may use a different folder.
+
+Export drawings and models from the catalog before transferring or uninstalling the app. A full export produces a ZIP with the asset names. Also keep a copy of the data folder: there is no automatic remote backup service.
+
+Deletion from the catalog is final and does not use the recycle bin. Always check the preview and selection before applying a crop. Generation operations can take a long time; percentages depend on the measurements provided by the engine.
+
+Interface and guide: Italian, English, Spanish, French, German, and Simplified Chinese. Change language from the selector in the app. Support and security reports: vis-k@outlook.it. © 2026 Vis-K. Rosario Viscardi, Italy.

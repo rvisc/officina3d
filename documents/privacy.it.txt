@@ -1,0 +1,23 @@
+﻿INFORMATIVA SULLA PRIVACY — Officina 3D
+
+Titolare del trattamento per le comunicazioni di assistenza: Rosario Viscardi (Vis-K), Italia. Contatto: vis-k@outlook.it. Informativa aggiornata al 10 novembre 2026.
+
+Officina 3D non richiede un account proprio e non integra pubblicità, analisi d’uso o telemetria del produttore. I contenuti del catalogo non vengono inviati a Rosario Viscardi dall’app.
+
+L’app conserva sul computer progetti, nomi, prompt, disegni, modelli, texture, workflow, cronologia dei lavori, impostazioni e lingua. I registri diagnostici locali possono contenere percorsi e dettagli tecnici degli errori. La verifica del computer legge sistema operativo, memoria, spazio, GPU e driver e mostra il risultato localmente.
+
+Quando avvii una generazione, prompt, immagini, modelli e parametri necessari vengono inviati al motore locale configurato. Il server dell’interfaccia ascolta soltanto su 127.0.0.1 e usa una sessione locale. ComfyUI, Modly, estensioni e modelli sono prodotti distinti: eventuali loro connessioni, servizi remoti e raccolte di dati dipendono dalla loro configurazione e dalle rispettive informative.
+
+I dati locali restano fino alla cancellazione da parte dell’utente. Eliminare una versione o un asset rimuove i relativi file gestiti dall’app; copie esportate, backup e file conservati dai motori restano sotto il controllo dell’utente. La disinstallazione non sostituisce la verifica e cancellazione della cartella dati e degli eventuali backup.
+
+Microsoft Store gestisce acquisti, download, aggiornamenti e relativi dati secondo l’informativa Microsoft. Il runtime Microsoft WebView2 è un componente di terze parti soggetto alle condizioni e all’informativa Microsoft. L’app non usa un servizio di analisi del produttore per osservare i contenuti visualizzati.
+
+Il runtime WebView2 include Microsoft Defender SmartScreen. Questa funzione raccoglie e invia informazioni a Microsoft come descritto nell’informativa Microsoft (https://aka.ms/privacy) e nel documento sulla privacy di Edge (https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen). Si applicano i termini originali Microsoft WebView2 Fixed Version inclusi con l’app.
+
+Se scrivi all’assistenza, saranno trattati indirizzo e-mail, contenuto della richiesta e gli allegati che decidi di inviare, per rispondere e gestire il problema. Evita dati sensibili e rimuovi dai registri contenuti non necessari. La base giuridica è l’esecuzione della richiesta di assistenza o del contratto; per obblighi applicabili, l’adempimento di legge; per la difesa da contestazioni, il legittimo interesse del titolare.
+
+Le comunicazioni sono conservate per il tempo necessario alla gestione della richiesta e, ove necessario, per gli obblighi legali e la tutela dei diritti. I fornitori del servizio di posta possono trattarle secondo le rispettive condizioni, anche fuori dallo Spazio economico europeo con le garanzie previste dalla legge. Non vendiamo i dati ricevuti per l’assistenza e non li usiamo per marketing.
+
+Nei casi previsti dal GDPR puoi chiedere accesso, rettifica, cancellazione, limitazione, portabilità e opposizione scrivendo al contatto indicato. Puoi proporre reclamo al Garante per la protezione dei dati personali (https://www.garanteprivacy.it) o all’autorità competente. Non effettuiamo decisioni automatizzate con effetti giuridici o analogamente significativi sui dati ricevuti per l’assistenza.
+
+La pagina pubblica di documentazione è ospitata su GitHub Pages. Visitandola si applicano anche l’informativa e i trattamenti tecnici del fornitore di hosting GitHub. I collegamenti esterni aprono siti di terze parti; consulta le loro informative. Nessun cookie di profilazione o strumento di analisi viene aggiunto dal codice della pagina.

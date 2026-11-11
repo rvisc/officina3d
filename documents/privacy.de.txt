@@ -1,0 +1,23 @@
+﻿DATENSCHUTZHINWEISE — Officina 3D
+
+Verantwortlicher für Support-Kommunikationen: Rosario Viscardi (Vis-K), Italien. Kontakt: vis-k@outlook.it. Informationen aktualisiert am 10. November 2026.
+
+Officina 3D verlangt keinen eigenen Account und integriert keine Werbung, Nutzungsanalysen oder Hersteller-Telemetrie. Die Inhalte des Katalogs werden nicht an Rosario Viscardi von der App gesendet.
+
+Die App speichert Projekte, Namen, Prompts, Zeichnungen, Modelle, Texturen, Workflows, Arbeitsverlauf, Einstellungen und Sprache auf dem Computer. Lokale Diagnoseprotokolle können Pfade und technische Fehlerdetails enthalten. Die Computerprüfung liest Betriebssystem, Speicher, Speicherplatz, GPU und Treiber und zeigt das Ergebnis lokal an.
+
+Wenn Sie eine Generierung starten, werden die erforderlichen Prompts, Bilder, Modelle und Parameter an die lokale Konfigurations-Engine gesendet. Der Interface-Server lauscht ausschließlich auf 127.0.0.1 und verwendet eine lokale Sitzung. ComfyUI, Modly, Erweiterungen und Modelle sind separate Produkte: jegliche Verbindungen, Remote-Dienste und Datensammlungen hängen von deren Konfiguration und den jeweiligen Datenschutzbestimmungen ab.
+
+Lokale Daten verbleiben bis zur Löschung durch den Benutzer. Das Löschen einer Version oder eines Assets entfernt die zugehörigen Dateien, die von der App verwaltet werden; exportierte Kopien, Backups und von den Engines aufbewahrte Dateien bleiben unter der Kontrolle des Benutzers. Die Deinstallation ersetzt weder die Überprüfung noch die Löschung des Datenordners und etwaiger Backups.
+
+Der Microsoft Store verwaltet Käufe, Downloads, Updates und die zugehörigen Daten gemäß der Microsoft-Datenschutzerklärung. Der Microsoft WebView2 Runtime ist eine Drittanbieterkomponente, die den Bedingungen und der Microsoft-Datenschutzerklärung unterliegt. Die App verwendet keinen Analyse-Dienst des Herstellers, um angezeigte Inhalte zu beobachten.
+
+Die WebView2-Laufzeit enthält Microsoft Defender SmartScreen. Diese Funktion erfasst Informationen und sendet sie an Microsoft, wie in der Microsoft-Datenschutzerklärung (https://aka.ms/privacy) und im Edge-Datenschutz-Whitepaper (https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen) beschrieben. Es gelten die mit der App gelieferten Originalbedingungen für Microsoft WebView2 Fixed Version.
+
+Wenn Sie den Support kontaktieren, werden die E-Mail-Adresse, der Inhalt der Anfrage und die von Ihnen angehängten Dateien verarbeitet, um zu antworten und das Problem zu bearbeiten. Vermeiden Sie sensible Daten und entfernen Sie unnötige Inhalte aus den Protokollen. Die Rechtsgrundlage ist die Erfüllung der Supportanfrage oder des Vertrags; für anwendbare Verpflichtungen die Einhaltung gesetzlicher Vorschriften; für die Verteidigung gegen Anfechtungen das berechtigte Interesse des Verantwortlichen.
+
+Die Mitteilungen werden für die Dauer der Bearbeitung der Anfrage und, falls erforderlich, für gesetzliche Verpflichtungen und den Schutz von Rechten aufbewahrt. Die E-Mail-Dienstanbieter können diese gemäß ihren jeweiligen Bedingungen verarbeiten, auch außerhalb des Europäischen Wirtschaftsraums unter den gesetzlich vorgesehenen Garantien. Wir verkaufen die für den Support empfangenen Daten nicht und verwenden sie nicht für Marketingzwecke.
+
+In den im Rahmen der DSGVO vorgesehenen Fällen können Sie über die angegebenen Kontaktangaben Auskunft, Berichtigung, Löschung, Einschränkung, Übertragbarkeit und Widerspruch verlangen. Sie können sich auch an die Datenschutzbehörde (https://www.garanteprivacy.it) oder an die zuständige Behörde wenden. Wir treffen keine automatisierten Entscheidungen mit rechtlicher Wirkung oder vergleichbar schwerwiegenden Auswirkungen auf die erhaltenen Daten für den Support.
+
+Die öffentliche Dokumentationsseite wird auf GitHub Pages gehostet. Durch den Besuch gelten auch die Datenschutzhinweise und technischen Verarbeitungen des Hosting-Anbieters GitHub. Externe Links öffnen Websites von Drittanbietern; bitte konsultieren Sie deren Datenschutzhinweise. Es werden keine Profiling-Cookies oder Analysewerkzeuge durch den Code der Seite hinzugefügt.

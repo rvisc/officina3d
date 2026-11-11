@@ -1,0 +1,13 @@
+﻿VERSIONSHINWEISE — Officina 3D 0.1.36
+
+Die Benutzeroberfläche, Anleitung, Nachrichten, Dokumentation und Lizenz sind in sechs Sprachen verfügbar.
+
+Installation: gut lesbare Lizenzabsätze und Überschriften; Vorabprüfung mit klaren Ergebnissen zu erforderlichen Komponenten, enthaltenen Laufzeitumgebungen und erreichbaren Engines sowie einer Schaltfläche zum Wiederholen der Prüfung.
+
+Katalog mit Projekten und Versionen; vollständiger Export als ZIP mit den Namen der Assets; Mehrfachgenerierung und Warteschlangenübersicht.
+
+Farbkorrektur mit Pipetten, Toleranz, erweiterter Auswahl und Deaktivierung; Werkzeuge für Geometrie, Löcher und unerwünschte Teile mit Vorschau und neuer Version.
+
+Anleitungsverfahren zur Überprüfung des Computers und zur Konfiguration der Engines. Windows-Pakete inklusive Python, Visual C++ Bibliotheken und WebView2 Runtime.
+
+Einschränkungen: Die Generierung erfordert externe, kompatible Engines, Workflows und Modelle. Geometrische Selektionen beinhalten nicht die Bedeutung des Objekts. Die Leistung hängt von der Hardware ab. Überprüfen Sie die Vorschau und bewahren Sie Kopien der Dateien auf.

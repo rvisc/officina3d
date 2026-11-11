@@ -1,0 +1,13 @@
+﻿NOTE DI VERSIONE — Officina 3D 0.1.36
+
+Interfaccia, guida, messaggi, documentazione e licenza disponibili in sei lingue.
+
+Setup: contratto leggibile con paragrafi continui e titoli; verifica preliminare con esito chiaro dei componenti essenziali, runtime inclusi, motori raggiungibili e comando per ripetere il controllo.
+
+Catalogo con progetti e versioni; esportazione completa in ZIP con i nomi degli asset; generazione multipla e riepilogo della coda.
+
+Correzione colori con contagocce, tolleranza, selezione estendibile e deselezione; strumenti per geometria, buchi e parti indesiderate con anteprima e nuova versione.
+
+Procedura guidata per verificare il computer e configurare i motori. Pacchetti Windows con Python, librerie Visual C++ e runtime WebView2 inclusi.
+
+Limiti: la generazione richiede motori, workflow e modelli esterni compatibili. Le selezioni geometriche non comprendono il significato dell’oggetto. Le prestazioni dipendono dall’hardware. Controlla l’anteprima e conserva copie dei file.

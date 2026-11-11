@@ -1,0 +1,13 @@
+﻿RELEASE NOTES — Officina 3D 0.1.36
+
+Interface, guide, messages, documentation, and license are available in six languages.
+
+Setup: readable license paragraphs and headings; preliminary check with clear results for essential components, bundled runtimes, reachable engines and a button to repeat the check.
+
+Catalog with projects and versions; complete export in ZIP with asset names; multi-generation and queue summary.
+
+Color correction with eyedropper, tolerance, extendable selection, and deselection; tools for geometry, holes, and unwanted parts with preview and new version.
+
+Guided procedure to verify the computer and configure the engines. Windows packages including Python, Visual C++ libraries, and WebView2 runtime are included.
+
+Limitations: generation requires compatible external engines, workflows, and models. Geometric selections do not include object meaning. Performance depends on the hardware. Check the preview and save copies of the files.

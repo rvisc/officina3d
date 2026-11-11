@@ -1,0 +1,23 @@
+﻿POLITIQUE DE CONFIDENTIALITÉ — Officina 3D
+
+Responsable du traitement pour les communications d'assistance : Rosario Viscardi (Vis-K), Italie. Contact : vis-k@outlook.it. Information mise à jour au 10 novembre 2026.
+
+Officina 3D ne requiert pas de compte personnel et n'intègre ni publicité, ni analyse d'utilisation ni télémétrie du fabricant. Le contenu du catalogue n'est pas envoyé à Rosario Viscardi depuis l'application.
+
+L'application conserve sur l'ordinateur les projets, noms, prompts, dessins, modèles, textures, workflows, l'historique des travaux, les paramètres et la langue. Les journaux de diagnostic locaux peuvent contenir des chemins et des détails techniques des erreurs. La vérification de l'ordinateur lit le système d'exploitation, la mémoire, l'espace, le GPU et les pilotes et affiche le résultat localement.
+
+Lors du lancement d'une génération, les prompts, images, modèles et paramètres nécessaires sont envoyés au moteur local configuré. Le serveur de l'interface écoute uniquement sur 127.0.0.1 et utilise une session locale. ComfyUI, Modly, les extensions et les modèles sont des produits distincts : toute connexion, service distant et collecte de données dépend de leur configuration respective et de leurs informations respectives.
+
+Les données locales restent jusqu'à ce que l'utilisateur les supprime. La suppression d'une version ou d'un asset supprime les fichiers associés gérés par l'application ; les copies exportées, les sauvegardes et les fichiers conservés par les moteurs restent sous le contrôle de l'utilisateur. La désinstallation ne remplace pas la vérification et la suppression du dossier de données et des éventuelles sauvegardes.
+
+Le Microsoft Store gère les achats, téléchargements, mises à jour et données associées conformément à l'avis d'information de Microsoft. Le runtime Microsoft WebView2 est un composant tiers soumis aux conditions et à l'avis d'information de Microsoft. L'application n'utilise pas de service d'analyse du fabricant pour observer le contenu affiché.
+
+Le runtime WebView2 inclut Microsoft Defender SmartScreen. Cette fonction collecte et envoie des informations à Microsoft conformément à la déclaration de confidentialité Microsoft (https://aka.ms/privacy) et au livre blanc sur la confidentialité Edge (https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen). Les conditions originales Microsoft WebView2 Fixed Version fournies avec l’application s’appliquent.
+
+Si vous contactez le support, l'adresse e-mail, le contenu de la demande et les pièces jointes que vous décidez d'envoyer seront traités afin de répondre et de gérer le problème. Veuillez éviter les données sensibles et supprimer des journaux les contenus non nécessaires. La base juridique est l'exécution de la demande d'assistance ou du contrat ; pour les obligations applicables, le respect de la loi ; pour la défense contre les contestations, l'intérêt légitime du titulaire.
+
+Les communications sont conservées pendant le temps nécessaire à la gestion de la demande et, si nécessaire, pour les obligations légales et la protection des droits. Les fournisseurs de services de messagerie peuvent les traiter conformément à leurs propres conditions, y compris en dehors de l'Espace économique européen avec les garanties prévues par la loi. Nous ne vendons pas les données reçues pour l'assistance et ne les utilisons pas pour le marketing.
+
+Dans les cas prévus par le RGPD, vous pouvez demander l'accès, la rectification, l'effacement, la limitation, la portabilité et l'opposition en écrivant au contact indiqué. Vous pouvez déposer une réclamation auprès du Garante per la protezione dei dati personali (https://www.garanteprivacy.it) ou de l'autorité compétente. Nous ne prenons aucune décision automatisée ayant des effets juridiques ou des effets significatifs équivalents sur les données reçues pour l'assistance.
+
+La page de documentation publique est hébergée sur GitHub Pages. La visite de cette page est également soumise à l'avis et aux traitements techniques du fournisseur d'hébergement GitHub. Les liens externes ouvrent des sites tiers ; veuillez consulter leurs avis. Aucun cookie de profilage ni outil d'analyse n'est ajouté par le code de la page.

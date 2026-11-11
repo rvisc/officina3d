@@ -1,0 +1,25 @@
+﻿LÉAME — Officina 3D
+
+Su estudio 3D, en tu PC. Officina 3D organiza dibujos y modelos 3D en proyectos, assets y versiones, conecta los motores locales ComfyUI y Modly y ofrece herramientas de corrección de color y geometría.
+
+Requisitos: Windows 11 x64. Python, las librerías Visual C++ y Microsoft WebView2 están incluidos. .NET Framework 4.8 es un componente de Windows 11. No es necesario instalar Python en el ordenador del usuario.
+
+Instalación en Microsoft Store: utilice el botón Instalar en la Tienda. El archivo MSIX proporcionado para el envío no está firmado: será firmado por Microsoft durante la publicación. No está destinado a la instalación directa con doble clic.
+
+Pruebas fuera de la Tienda: ejecute Officina3D-0.1.39-Setup.exe o extraiga completamente el archivo comprimido portátil y ejecute Officina3D.exe. Conserve la carpeta _internal junto al EXE. Los paquetes de prueba no están firmados.
+
+Al primer inicio, el asistente permite verificar el sistema, la memoria, el disco, la GPU, los controladores y la disponibilidad de los motores. Puede volver a abrirlo con Verificación de instalación. No descarga ni instala componentes automáticamente.
+
+Para generar, es necesario preparar por separado ComfyUI o Modly, con los nodos, los modelos y los flujos de trabajo compatibles. Los pesos de los modelos no están incluidos. Abra Motores y conexiones, configure las direcciones locales y verifique la conexión. ComfyUI: https://www.comfy.org/download — Modly: https://github.com/lightningpixel/modly
+
+El catálogo, la importación y las correcciones locales funcionan sin un motor de generación. La compatibilidad con la GPU y la memoria necesaria dependen de los modelos: para los más exigentes, se indican aproximadamente 32 GB de RAM y 16 GB de VRAM. Verifique los requisitos del motor y las licencias, incluidas cualesquiera limitaciones territoriales.
+
+Cree un proyecto y un activo (asset), descríbalo o importe un PNG, JPEG o GLB. Para generar varios activos, selecciónelos en el catálogo y presione Generar. La cola muestra el estado y el progreso; puede cancelar los trabajos. Las correcciones se guardan como nuevas versiones después de la previsualización.
+
+Datos de instalación estándar: %LOCALAPPDATA%\Vis-K\Officina3D. Los dibujos y modelos se conservan en las subcarpetas de los proyectos; el catálogo mantiene las referencias y la procedencia. La ruta efectiva se muestra en la aplicación. Las ejecuciones de desarrollo pueden usar una carpeta diferente.
+
+Exporte los dibujos y modelos del catálogo antes de transferir o desinstalar la aplicación. La exportación completa produce un archivo ZIP con los nombres de los recursos (assets). Conserve también una copia de la carpeta de datos: no existe un servicio de copia de seguridad remota automática.
+
+La eliminación del catálogo es definitiva y no utiliza la papelera de reciclaje. Compruebe siempre la previsualización y la selección antes de aplicar un recorte. Las operaciones de generación pueden requerir mucho tiempo; los porcentajes dependen de las medidas proporcionadas por el motor.
+
+Interfaz y guía: italiano, inglés, español, francés, alemán y chino simplificado. Cambie el idioma desde el selector en la aplicación. Soporte y reportes de seguridad: vis-k@outlook.it. © 2026 Vis-K. Rosario Viscardi, Italia.

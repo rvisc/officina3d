@@ -1,0 +1,23 @@
+﻿PRIVACY NOTICE — Officina 3D
+
+Data Controller for Support Communications: Rosario Viscardi (Vis-K), Italy. Contact: vis-k@outlook.it. Notice updated as of November 10, 2026.
+
+Officina 3D does not require a proprietary account and does not integrate manufacturer advertising, usage analytics, or telemetry. Catalog contents are not sent to Rosario Viscardi from the app.
+
+The application saves projects, names, prompts, drawings, models, textures, workflows, work history, settings, and language on the computer. Local diagnostic logs may contain technical paths and error details. The computer check reads the operating system, memory, space, GPU, and drivers, and displays the result locally.
+
+When you initiate a generation, the necessary prompts, images, models, and parameters are sent to the configured local engine. The interface server listens only on 127.0.0.1 and uses a local session. ComfyUI, Modly, extensions, and models are distinct products: any connections, remote services, and data collections depend on their respective configurations and privacy policies.
+
+Local data remains until deleted by the user. Deleting a version or an asset removes the related files managed by the application; exported copies, backups, and files retained by the engines remain under the user's control. Uninstallation does not replace the verification and deletion of the data folder and any backups.
+
+The Microsoft Store manages purchases, downloads, updates, and related data according to the Microsoft privacy notice. The Microsoft WebView2 runtime is a third-party component subject to Microsoft's terms and privacy notice. The app does not use the manufacturer's analytics service to observe displayed content.
+
+The WebView2 runtime includes Microsoft Defender SmartScreen. This feature collects and sends information to Microsoft as described in the Microsoft Privacy Statement (https://aka.ms/privacy) and the Edge Privacy Whitepaper (https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen). The original Microsoft WebView2 Fixed Version terms included with the app apply.
+
+If you contact support, the email address, the content of the request, and the attachments you choose to send will be processed to respond to and manage the issue. Avoid sensitive data and remove unnecessary content from the logs. The legal basis is the performance of the support request or contract; for applicable obligations, compliance with law; for defense against disputes, the controller's legitimate interest.
+
+Communications are retained for the time necessary to manage the request and, where necessary, for legal obligations and the protection of rights. Email service providers may process them according to their respective terms, even outside the European Economic Area with the guarantees provided by law. We do not sell the data received for support and do not use it for marketing.
+
+In cases provided for by the GDPR, you can request access, rectification, erasure, limitation, portability, and objection by writing to the contact indicated. You can lodge a complaint with the Data Protection Authority (https://www.garanteprivacy.it) or the competent authority. We do not make automated decisions with legal effect or similarly significant effect on the data received for assistance.
+
+The public documentation page is hosted on GitHub Pages. Visiting it also subjects you to the privacy policy and technical processing of the GitHub hosting provider. External links open third-party sites; consult their policies. No profiling cookies or analytics tools are added by the page code.

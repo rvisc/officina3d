@@ -1,0 +1,25 @@
+﻿LEGGIMI — Officina 3D
+
+Il tuo studio 3D, sul tuo PC. Officina 3D organizza disegni e modelli 3D in progetti, asset e versioni, collega i motori locali ComfyUI e Modly e offre strumenti di correzione di colori e geometria.
+
+Requisiti: Windows 11 x64. Python, le librerie Visual C++ e Microsoft WebView2 sono inclusi. .NET Framework 4.8 è un componente di Windows 11. Non serve installare Python sul computer dell’utente.
+
+Installazione Microsoft Store: usa il pulsante Installa nello Store. Il file MSIX fornito per l’invio non è firmato: verrà firmato da Microsoft durante la pubblicazione. Non è destinato all’installazione diretta con doppio clic.
+
+Prove fuori dallo Store: esegui Officina3D-0.1.39-Setup.exe oppure estrai interamente l’archivio portatile e avvia Officina3D.exe. Conserva la cartella _internal accanto all’EXE. I pacchetti di prova non sono firmati.
+
+Al primo avvio, la procedura guidata permette di verificare sistema, memoria, disco, GPU, driver e disponibilità dei motori. Puoi riaprirla con Verifica installazione. Non scarica né installa componenti automaticamente.
+
+Per generare occorre preparare separatamente ComfyUI o Modly, con i nodi, i modelli e i workflow compatibili. I pesi dei modelli non sono inclusi. Apri Motori e connessioni, imposta gli indirizzi locali e verifica la connessione. ComfyUI: https://www.comfy.org/download — Modly: https://github.com/lightningpixel/modly
+
+Catalogo, importazione e correzioni locali funzionano senza un motore di generazione. La compatibilità GPU e la memoria necessaria dipendono dai modelli: per quelli più impegnativi sono indicativi circa 32 GB di RAM e 16 GB di VRAM. Verifica i requisiti del motore e le licenze, comprese eventuali limitazioni territoriali.
+
+Crea un progetto e un asset, descrivilo oppure importa un PNG, JPEG o GLB. Per generare più asset selezionali nel catalogo e premi Genera. La coda mostra stato e avanzamento; puoi annullare i lavori. Le correzioni vengono salvate come nuove versioni dopo l’anteprima.
+
+Dati dell’installazione standard: %LOCALAPPDATA%\Vis-K\Officina3D. Disegni e modelli sono conservati nelle sottocartelle dei progetti; il catalogo mantiene i riferimenti e la provenienza. Il percorso effettivo è mostrato nell’app. Gli avvii di sviluppo possono usare una cartella diversa.
+
+Esporta disegni e modelli dal catalogo prima di trasferire o disinstallare l’app. L’esportazione completa produce uno ZIP con i nomi degli asset. Conserva anche una copia della cartella dati: non esiste un servizio di backup remoto automatico.
+
+L’eliminazione dal catalogo è definitiva e non usa il cestino. Controlla sempre anteprima e selezione prima di applicare un taglio. Le operazioni di generazione possono richiedere molto tempo; le percentuali dipendono dalle misure fornite dal motore.
+
+Interfaccia e guida: italiano, inglese, spagnolo, francese, tedesco e cinese semplificato. Cambia lingua dal selettore nell’app. Assistenza e segnalazioni di sicurezza: vis-k@outlook.it. © 2026 Vis-K. Rosario Viscardi, Italia.

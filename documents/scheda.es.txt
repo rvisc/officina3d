@@ -1,0 +1,19 @@
+﻿FICHA DEL PRODUCTO — Officina 3D
+
+Del signo a la forma: organiza, genera y retoca tus assets 3D en el PC.
+
+Officina 3D recopila dibujos y modelos 3D en un catálogo con proyectos, descripciones y versiones. Importa imágenes y GLB, conecta ComfyUI o Modly y gestiona las generaciones desde una cola de trabajo. Elige los flujos de trabajo compatibles y conserva el origen de las versiones.
+
+Corrija los colores seleccionando directamente una zona del modelo con el gotero y ajustando la similitud. Seleccione varias áreas, añada o reste partes y compruebe la previsualización antes de guardar una nueva versión. Las herramientas geométricas ayudan a intervenir en agujeros, fragmentos y partes no deseadas.
+
+Seleccione varios *assets* y añádalos a la cola con parámetros comunes. Exporte todos los dibujos y modelos del proyecto en un único ZIP, con nombres reconocibles. La interfaz, la guía y la documentación están disponibles en italiano, inglés, español, francés, alemán y chino simplificado.
+
+La aplicación no requiere cuenta propia, no contiene publicidad y no envía el catálogo al fabricante. El contenido se procesa localmente por la aplicación y por los motores que configure. Las posibles extensiones de los motores tienen sus propias condiciones.
+
+REQUISITOS IMPORTANTES: Windows 11 x64. El catálogo, la importación y las correcciones locales no requieren un motor de IA. Para generar, debe instalar y configurar por separado ComfyUI o Modly, nodos, flujos de trabajo y modelos compatibles; estos no están incluidos. Verifique los requisitos de GPU, memoria y licencias de los modelos antes de la descarga. Los modelos más exigentes pueden requerir aproximadamente 32 GB de RAM y 16 GB de VRAM. Python, Visual C++ y WebView2 están incluidos.
+
+Características: catálogo y versiones; importación PNG/JPEG/GLB; generación mediante motores locales; cola con cancelación; generación múltiple; corrección de color y geometría con previsualización; exportación completa ZIP; seis idiomas; verificación guiada de prerrequisitos.
+
+Palabras clave: 3D, catálogo, modelos, texturas, ComfyUI, Modly, IA local
+
+Asistencia: vis-k@outlook.it — Sitio: https://rvisc.github.io/officina3d/ — Privacidad: https://rvisc.github.io/officina3d/privacy.html — EULA: https://rvisc.github.io/officina3d/eula.html
